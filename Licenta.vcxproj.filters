@@ -18,5 +18,19 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Battery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Charger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Battery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Charger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
